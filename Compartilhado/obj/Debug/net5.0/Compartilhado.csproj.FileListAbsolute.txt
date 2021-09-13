@@ -1,0 +1,12 @@
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\bin\Debug\net5.0\Compartilhado.deps.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\bin\Debug\net5.0\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\bin\Debug\net5.0\ref\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\bin\Debug\net5.0\Compartilhado.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.csproj.AssemblyReference.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.AssemblyInfoInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.AssemblyInfo.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.csproj.CoreCompileInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\ref\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\Compartilhado\obj\Debug\net5.0\Compartilhado.pdb

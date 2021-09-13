@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3619CFDA-B494-4E3F-8BDA-B1DA158C5D30}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebApiAulaSD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiAulaSD" expanded="True">
+            <Node name="Compartilhado" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="FrontEnd" expanded="True" />
+            <Node name="WebApiAulaSD" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
