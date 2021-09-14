@@ -1,6 +1,14 @@
 ﻿<Properties StartupConfiguration="{3619CFDA-B494-4E3F-8BDA-B1DA158C5D30}|Default">
   <MonoDevelop.Ide.ItemProperties.WebApiAulaSD PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrontEnd/Repository/BingoRep.cs">
+    <Files>
+      <File FileName="WebApiAulaSD/Controllers/BingoController.cs" Line="37" Column="28" />
+      <File FileName="WebApiAulaSD/Controllers/CartelaController.cs" Line="20" Column="10" />
+      <File FileName="FrontEnd/Properties/launchSettings.json" Line="10" Column="16" />
+      <File FileName="FrontEnd/Repository/BingoRep.cs" Line="14" Column="5" />
+      <File FileName="Compartilhado/Models/IRepositoryBingo.cs" Line="15" Column="13" />
+      <File FileName="FrontEnd/Repository/CartelaRep.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -8,12 +16,19 @@
             <Node name="Compartilhado" expanded="True">
               <Node name="Models" expanded="True" />
             </Node>
-            <Node name="FrontEnd" expanded="True" />
+            <Node name="FrontEnd" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="BingoRep.cs" selected="True" />
+              </Node>
+            </Node>
             <Node name="WebApiAulaSD" expanded="True">
               <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\wwwroot\" />
+  <ContentRoot BasePath="/" Path="/Users/elainemattos/unip/WebApiAulaSD_Bingo/FrontEnd/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/elainemattos/unip/WebApiAulaSD_Bingo/FrontEnd/obj/Debug/net5.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/" Path="/Users/elainemattos/unip/WebApiAulaSD_Bingo/FrontEnd/wwwroot/" />
 </StaticWebAssets>
